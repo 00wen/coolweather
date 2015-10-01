@@ -84,13 +84,13 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/WeatherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
+              <caret line="126" column="67" selection-start-line="126" selection-start-column="67" selection-end-line="126" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3070#3255#0" expanded="true" />
-                <element signature="e#3254#3255#0" expanded="true" />
-                <element signature="e#3390#3569#0" expanded="true" />
-                <element signature="e#3568#3569#0" expanded="true" />
+                <element signature="e#3267#3452#0" expanded="true" />
+                <element signature="e#3451#3452#0" expanded="true" />
+                <element signature="e#3587#3766#0" expanded="true" />
+                <element signature="e#3765#3766#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weather_layout.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weather_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.426791">
-              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+            <state vertical-scroll-proportion="-7.0333333">
+              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -122,13 +122,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/ChooseAreaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="205" column="33" selection-start-line="205" selection-start-column="33" selection-end-line="205" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.75213677">
+              <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2618#3463#0" expanded="true" />
+                <element signature="e#3462#3463#0" expanded="true" />
+                <element signature="e#6165#6713#0" expanded="true" />
+                <element signature="e#6712#6713#0" expanded="true" />
+                <element signature="e#6848#7119#0" expanded="true" />
+                <element signature="e#7118#7119#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1623,10 +1629,10 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/choose_are.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/choose_area.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/app/coolweather/util/Utility.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/ChooseAreaActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/WeatherActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/ChooseAreaActivity.java" />
       </list>
     </option>
   </component>
@@ -1728,6 +1734,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1900,6 +1924,11 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Androidstudy\CoolWeather\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2219,6 +2248,12 @@
           <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2618#3463#0" expanded="true" />
+            <element signature="e#3462#3463#0" expanded="true" />
+            <element signature="e#6165#6713#0" expanded="true" />
+            <element signature="e#6712#6713#0" expanded="true" />
+            <element signature="e#6848#7119#0" expanded="true" />
+            <element signature="e#7118#7119#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2438,16 +2473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/ChooseAreaActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="205" column="33" selection-start-line="205" selection-start-column="33" selection-end-line="205" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2458,29 +2483,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/WeatherActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="64" selection-start-line="59" selection-start-column="64" selection-end-line="59" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3070#3255#0" expanded="true" />
-            <element signature="e#3254#3255#0" expanded="true" />
-            <element signature="e#3390#3569#0" expanded="true" />
-            <element signature="e#3568#3569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.426791">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        <state vertical-scroll-proportion="-7.0333333">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/WeatherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="126" column="67" selection-start-line="126" selection-start-column="67" selection-end-line="126" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3267#3452#0" expanded="true" />
+            <element signature="e#3451#3452#0" expanded="true" />
+            <element signature="e#3587#3766#0" expanded="true" />
+            <element signature="e#3765#3766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/app/coolweather/activity/ChooseAreaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75213677">
+          <caret line="60" column="76" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2618#3463#0" expanded="true" />
+            <element signature="e#3462#3463#0" expanded="true" />
+            <element signature="e#6165#6713#0" expanded="true" />
+            <element signature="e#6712#6713#0" expanded="true" />
+            <element signature="e#6848#7119#0" expanded="true" />
+            <element signature="e#7118#7119#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
